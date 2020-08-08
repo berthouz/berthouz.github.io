@@ -1,77 +1,57 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Brain dynamics in health and in disease
+description: Funded (in part) by EPSRC
+img: /assets/img/Eleanna_Kuramoto_Picture.jpg
 importance: 1
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Key collaborator: [Dr Simon Farmer](https://iris.ucl.ac.uk/iris/browse/profile?upi=SFFAR49) (UCL Queen Square)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Graduate students: Miss Eleanna Kritikaki (PhD 2019-), [Dr Tim West](https://www.mrcbndu.ox.ac.uk/people/dr-tim-west) (PhD, 2015-2018, UCL CoMPLEX, now postdoctoral neuroscientist at University of Oxford), [Dr Maria Botcharova](https://www.linkedin.com/in/mariabotcharova/) (PhD, 2010-2013, UCL CoMPLEX), Dr Tim Taylor (PhD, 2012-2015), [Dr Caroline Hartley](https://www.paediatrics.ox.ac.uk/team/caroline-hartley) (PhD, 2009-2012; now Associate Professor & Wellcome Trust/Royal Society Sir Henry Dale Fellow @ University of Oxford) 
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+
+**Currently offering** 1 PhD studentship with flexible starting date. See [here](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1200-Dynamics-on-of-networks-and-oscillopathies) for details regarding how to submit. 
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
+Topics of interest here include: 
+
+
+
+<h3>Pathological synchronisation in Parkinson's Disease</h3>
+
+{% reference west_mechanistic_2019 %}
+
+{% reference west_propagation_2018 %}
+
+{% reference west_parkinsonian_2016 %}
+
+
+
+<h3>Brain criticality, long-range temporal correlations in amplitude and phase synchrony</h3>
+
+{% reference hartley_temporal_2020 %}
+
+{% reference botcharova_resting_2015 %}
+
+{% reference botcharova_markers_2014 %}
+
+{% reference hartley_identification_2014 %}
+
+{% reference taylor_identification_2013 %}
+
+{% reference botcharova_power-law_2012 %}
+
+{% reference hartley_long-range_2012 %}
+
+{% reference berthouze_adaptive_2012 %}
+
+{% reference berthouze_human_2010 %} 
+
+
+
+<h3>Coherence</h3>
+
+{% reference ward_rectification_2013 %}
