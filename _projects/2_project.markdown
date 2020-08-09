@@ -55,7 +55,7 @@ Topics of interest here are:
 
 Funded by the Leverhulme Trust
 
-Other collaborators:  Dr Masoumeh Dashti](https://profiles.sussex.ac.uk/p280338-masoumeh-dashti) (co-I), Dr Jean-Charles Croix (PDRA, until April 2020)
+Other collaborators:  [Dr Masoumeh Dashti](https://profiles.sussex.ac.uk/p280338-masoumeh-dashti) (co-I), Dr Jean-Charles Croix (PDRA, until April 2020)
 
 The use of networks to model complex systems has revolutionised the way in which brains, epidemics, social interactions and more generally the flow of information are modelled. However, many of the resulting mathematical models suffer from high model dimensionality and therefore limited analytical tractability, sensitivity to incomplete information about the network, and inaccuracies due to simplifying assumptions or approximations. The aim of this research is to develop a new modelling paradigm that will tackle these challenges as well as offer several other major benefits. This paradigm relies on the specification of a new class of parametric models that are flexible enough to handle networks currently out of reach of state-of-the-art models. The inference of the parameters is formulated as Bayesian inverse problems, which in turn makes it possible to rigorously quantify the uncertainty introduced by simplifying assumptions and incomplete network data. This research harnesses a novel combination of techniques from stochastic analysis, partial differential equations (PDEs) and uncertainty quantification and could prove a step change in the ability of network science to deal with real-world applications.
 
