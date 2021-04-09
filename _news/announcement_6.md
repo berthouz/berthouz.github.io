@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-04-09 11:09:00
+date: 2021-02-01 09:00:00
 inline: true
 ---
 
-Paper "Inference of Brain Networks with Approximate Bayesian Computation – assessing face validity with an example application in Parkinsonism" (with West, Farmer and Litvak) appears in Neuroimage [[link](https://www.sciencedirect.com/science/article/pii/S1053811921002974)]. 
+We welcome new PhD student Giles Winchester in the lab. Giles will be work on our project: Monitoring and management of large-scale communication networks [[link](https://berthouz.github.io/projects/3_project/)]. 
 
